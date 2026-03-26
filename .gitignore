@@ -1,0 +1,14 @@
+ARCHITECTURE.md
+node_modules
+FRONTEND_COMPONENTS.md
+IMPLEMENTATION_GUIDE.md
+QUICK_REFERENCE.md
+SUMMARY.md
+
+
+backend/env
+backend/node_modules
+
+
+frontend/env
+frontend/node_modules
