@@ -14,6 +14,7 @@ backend/.env
 frontend/env
 frontend/node_modules
 frontend/.env
+frontend/.env.development
 
 DEPLOYMENT.md
 render.yaml
