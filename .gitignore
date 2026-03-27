@@ -8,7 +8,12 @@ SUMMARY.md
 
 backend/env
 backend/node_modules
+backend/.env
 
 
 frontend/env
 frontend/node_modules
+frontend/.env
+
+DEPLOYMENT.md
+render.yaml
